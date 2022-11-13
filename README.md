@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ À propos de moi
 
-- 🚀 PrésFondateur d'**[Amboise-Life](https://amboise-life.fr)**
+- 🚀 Fondateur d'**[Amboise-Life](https://amboise-life.fr)**
 
 - 💻 Développeur HTML et C# (bases seulement)
 
