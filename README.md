@@ -15,8 +15,8 @@
 ## 📊 Mes statistiques Github
 
   <br/>
-    <a href="https://github.com/B00STYB00ST/github-readme-stats"><img alt="Statistiques Github de HydraDev" src="https://github-readme-stats.vercel.app/api?username=B00STYB00ST&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/B00STYB00ST/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B00STYB00ST&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/B00STYB00ST/github-readme-stats"><img alt="Statistiques Github de BoostyBoost" src="https://github-readme-stats.vercel.app/api?username=B00STYB00ST&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/B00STYB00ST/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B00STYB00ST&layout=compact" /></a>
   <br/>
   <b>Note:</b> Les principaux languages ne sont qu'une mesure dans lesquelles se composent mes créations et ne reflètent pas l'expérience ou le niveau de compétence.
 
