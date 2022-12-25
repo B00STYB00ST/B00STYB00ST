@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/B00STYB00ST/github-readme-activity-graph"><img alt="Graphique d'activité de BoostyBoost" src="https://activity-graph.herokuapp.com/graph?username=B00STYB00ST&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/B00STYB00ST/github-readme-activity-graph"><img alt="Graphique d'activité de BoostyBoost" src="https://github.com/users/B00STYB00ST/contributions" /></a>
 
 <br/>
 <br/>
