@@ -1,4 +1,4 @@
-<h1 align="center">Salut, je suis BoosytBoost</h1>
+<h1 align="center">Salut 👋, je suis BoosytBoost</h1>
 <h3 align="center">Fondateur du serveur Amboise-Life.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b00styb00st&label=Profile%20views&color=0e75b6&style=flat" alt="b00styb00st" /> </p>
@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b00styb00st&show_icons=true&locale=en&layout=compact" alt="b00styb00st" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b00styb00st&show_icons=true&locale=en" alt="b00styb00st" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b00styb00st&show_icons=true&theme=synthwave&locale=en" alt="b00styb00st" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b00styb00st&" alt="b00styb00st" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b00styb00st&theme=highcontrast" alt="b00styb00st" /></p>
