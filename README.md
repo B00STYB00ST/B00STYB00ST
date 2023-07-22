@@ -4,8 +4,6 @@
 
 ## 🙋‍♂️ À propos de moi
 
-- 🚀 Fondateur d'**[Amboise-Life](https://amboise-life.fr)**
-
 - 💻 Développeur HTML et C# (bases seulement)
 
 - 📫 Mon Discord pour me contacter **BoostyBoost#2034**
