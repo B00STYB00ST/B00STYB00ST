@@ -1,5 +1,5 @@
 <h1 align="center">Salut, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> je suis BoosytBoost</h1>
-<h3 align="center">Fondateur du serveur Amboise-Life.</h3>
+<h3 align="center">Développeur à mes heures perdues</h3>
 <h3 align="center"><img src="https://icon-library.com/images/france-icon/france-icon-15.jpg"/ width="45"></h3>
 
 ## 🙋‍♂️ À propos de moi
