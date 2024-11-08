@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ À propos de moi
 
-- 💻 Développeur HTML et C# (bases seulement)
+- 💻 Développeur HTML et C#
 
 - 📫 Mon Discord pour me contacter **BoostyBoost#2034**
 
